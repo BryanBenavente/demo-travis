@@ -1,0 +1,7 @@
+organization=bryanbenavente
+projectKey=BryanBenavente_demo-spring
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.5143
+dashboardUrl=https://sonarcloud.io/dashboard?id=BryanBenavente_demo-spring
+ceTaskId=AXCQdglB5SP6KIFuE3l6
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXCQdglB5SP6KIFuE3l6

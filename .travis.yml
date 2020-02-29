@@ -3,7 +3,7 @@ language: java
 addons:
   sonarcloud:
     organization: "bryanbenavente"
-      token:
+    token:
         secure: a3366967912af64dcfbee324a8d7aecff12e01b1
 
 script:
